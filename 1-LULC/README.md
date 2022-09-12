@@ -3,13 +3,13 @@
 
 
 ## Flujo de trabajo
-![ROI](.images/flujo-clasificacion-supervisada.jpg "Flujo de clasificación supervizada")
+![ROI](./images/flujo-clasificacion-supervisada.jpg "Flujo de clasificación supervizada")
 **Figura 1**: Flujo de clasificación supervisada
 
 
 ## Área de estudio
 
-![ROI](.images/roi-curso-bc.png  "Área de estudio")
+![ROI](./images/roi-curso-bc.png  "Área de estudio")
 **Figura 2**: Área de estudio definida por el partido de Chivilcoy.
 
 ## Muestras de VT
