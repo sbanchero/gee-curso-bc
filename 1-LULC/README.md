@@ -22,16 +22,16 @@
 La distribución de frecuencias de las muestras es:
 
 
-| Clase | Cantidad |
-| --- | --- |
-| Agricultura | 59 |
-| Agua | 33 |
-| Humedal | 71 |
-| Leñosa Abierta | 23 |
-| Leñosa Cerrada | 83 |
-| Pastizal | 39 |
-| Pastura |50 |
-| Plantaciones Forestales | 25 |
+| Código | Clase | Cantidad |
+| --- | --- | --- |
+| 3 | Leñosa Cerrada | 83 |
+| 4 | Leñosa Abierta | 23 |
+| 9 | Plantaciones Forestales | 25 |
+| 11 | Humedal | 71 |
+| 12 | Pastizal | 39 |
+| 15 | Pastura |50 |
+| 18 | Agricultura | 59 |
+| 22 | Agua | 33 |
 
 
 
