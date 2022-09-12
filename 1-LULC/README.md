@@ -21,6 +21,7 @@
 
 La distribución de frecuencias de las muestras es:
 
+
 | Clase|Cantidad|
 |---|: -- :|
 |Agricultura| 59 |
