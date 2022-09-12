@@ -15,6 +15,9 @@ Santiago, B., Santiago, V., de Abelleyra, D., Antonella, F., Tamara, P., Cielo, 
 
 ## Recursos
 
- - Repositorio GEE [[ Ver ]](https://code.earthengine.google.com/?accept_repo=users/santiagobanchero/gee-curso-bc)
+ - Repositorio de código GEE [[ Ver ]](https://code.earthengine.google.com/?accept_repo=users/santiagobanchero/gee-curso-bc)
+ - Asset 1: ROI. _users/santiagobanchero/gee-curso-bc/roi-curso_ 
+ - Asset 2: Verdad de campo. _users/santiagobanchero/gee-curso-bc/muestras-curso_
+ - Asset 3: Clip Planet. _users/santiagobanchero/gee-curso-bc/planet-2022-08_
 
 
