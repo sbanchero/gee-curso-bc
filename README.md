@@ -1,5 +1,28 @@
 # Introducción a Google Earth Engine con ejemplos
 
+Curso de introducción a Google Earth Engine (GEE), utilizando la interfaz [Code Editor](https://code.earthengine.google.com/).
+
+## Docente
+
+Lic. Santiago, Banchero
+
+INTA/UNLu
+Web: [sbanchero.github.io](https://sbanchero.github.io)
+
+## Objetivos del curso
+
+<div style="text-align: justify">El objetivo del curso es que el alumno adquiera los conceptos principales de manejo de la herramienta Code Editor, entienda los principales objetos (Image, Feature y Colecciones) y que pueda escribir scripts para explotar diferentes colecciones de imágenes de las principales plataformas de sensoramiento remoto de libre disponibilidad.</div>
+
+## Conocimientos previos
+
+Las personas que tomen el curso deberían tener __nociones básicas__ de:
+
+ * SIG y Teledetección.
+ * Programación. **¡No es excluyente!** Pero la idea es que alguna vez haya tenido contacto con algún lenguaje de programación (R, Python, Matlab u otro). El lenguaje utilizado es Javascript, antes del curso sería importante que miren estos enlaces: [About JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript), [Una re-introducción a JavaScript (Tutorial de JS)](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript), [Introduction to JavaScript for Earth Engine](https://developers.google.com/earth-engine/tutorial_js_01).
+ * 
+
+## Contenidos
+
 ## Clasificación de uso y cobertura del suelo
 
 Flujo de trabajo para la clasificación supervisada de uso y cobertura del suelo. Recorrido detallado de los pasos necesarios y el código requerido para genera una cartografía de uso y cobertura a partir de imágenes Landsat y muestras de verdad terrestre.
