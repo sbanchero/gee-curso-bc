@@ -7,8 +7,8 @@ Flujo de procesamiento digital de imágenes y clasificación no supervisada para
 
 ## Preprocesamiento
 
- - Filtro de blur gaussiano. https://en.wikipedia.org/wiki/Gaussian_blur
- - Escatado con Z-score
+ - Filtro de blur gaussiano. [Link](https://en.wikipedia.org/wiki/Gaussian_blur)
+ - Escatado con Z-score z = (x – μ)/σ
  
 ## OTSU
  - Segmentación basada en umbrales de saturación.
