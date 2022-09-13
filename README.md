@@ -7,6 +7,7 @@ Curso de introducción a Google Earth Engine (GEE), utilizando la interfaz [Code
 Lic. Santiago, Banchero
 
 INTA/UNLu
+
 Web: [sbanchero.github.io](https://sbanchero.github.io)
 
 ## Objetivos del curso
