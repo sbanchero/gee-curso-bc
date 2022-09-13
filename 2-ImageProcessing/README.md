@@ -20,5 +20,5 @@ Flujo de procesamiento digital de imágenes y clasificación no supervisada para
 
 ## Delineado de copas paso a paso
 
- ![](/datos/INTA/gee-curso-bc/2-ImageProcessing/images/step-by-step.png) 
+ ![](.images/step-by-step.png) 
  
