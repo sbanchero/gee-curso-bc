@@ -20,5 +20,5 @@ Flujo de procesamiento digital de imágenes y clasificación no supervisada para
 
 ## Delineado de copas paso a paso
 
- ![](.images/step-by-step.png) 
+ ![](./images/step-by-step.png) 
  
