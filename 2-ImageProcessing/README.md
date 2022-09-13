@@ -14,4 +14,11 @@ Flujo de procesamiento digital de imágenes y clasificación no supervisada para
  - Segmentación basada en umbrales de saturación.
  - Trabaja en escala de grises (1 sola banda)
  
+## Clustering k-Means
+
+ - Dentro de la máscara de OTSU aplicamos el agrupamiento
+
+## Delineado de copas
+
+ ![](/datos/INTA/gee-curso-bc/2-ImageProcessing/images/step-by-step.png) 
  

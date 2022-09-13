@@ -37,24 +37,6 @@ La distribución de frecuencias de las muestras es:
 
 ## Código base
 
-Producto complet
+Módulo de [1-LULC](https://code.earthengine.google.com/?accept_repo=users/santiagobanchero/gee-curso-bc)
 
 
-
-### Leer el vector del área de estudio
-
-### Leer el vector de verdad terrestre
-
-### Esquema de holdout (training/testing)
-
-### Mosaicos y feature space
-
-### Tips de optimización: Guardados parciales
-
-### Clasificación
-
-### Mejoras
-
-#### Balanceo de muestras
-#### Ruido en las clases
-#### Selección de modelos
