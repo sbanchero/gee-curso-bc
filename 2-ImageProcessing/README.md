@@ -2,7 +2,7 @@
 
 Flujo de procesamiento digital de imágenes y clasificación no supervisada para detectar cobertura de copas.
 
-![](/datos/INTA/gee-curso-bc/2-ImageProcessing/images/flow-tree-crown-map.png) 
+![](./images/flow-tree-crown-map.png) 
 
 
 ## Preprocesamiento
